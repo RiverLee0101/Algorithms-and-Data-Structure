@@ -1,0 +1,3 @@
+- 此仓库（Algorithms-and-Data-Structure）用来存放计算机 **算法和数据结构** 相关资料；
+- leetcode-practice为算法题练习项目；
+- 其他算法和数据结构相关学习资料直接存放于此仓库下；
